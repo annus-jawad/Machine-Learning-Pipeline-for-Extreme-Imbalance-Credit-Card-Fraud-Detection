@@ -56,22 +56,7 @@ Model Training & Benchmarking                             │
                   Model Evaluation & Threshold Tuning
 ```
 
----
 
-## Repository Structure
-
-```
-.
-├── README.md                      # Project documentation and summary
-├── fraud_detection_case_study.md  # Detailed technical case study & report
-├── data/
-│   └── creditcard.csv             # Kaggle dataset (git-ignored)
-├── notebooks/
-│   └── fraud_detection_lab.ipynb  # End-to-end executable notebook
-└── requirements.txt               # Project dependencies
-```
-
----
 
 ## Quickstart & Installation
 
@@ -108,9 +93,4 @@ Model Training & Benchmarking                             │
 
 ---
 
-## Author & Contact
-
 * **Author:** Annus Jawad
-* **Role:** Machine Learning Engineer / Data Scientist Trainee
-* **LinkedIn:** [Your LinkedIn Link]
-* **GitHub:** [Your GitHub Link]
